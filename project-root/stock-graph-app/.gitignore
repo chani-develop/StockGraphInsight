@@ -1,0 +1,68 @@
+# ===== Angular (לקוח) =====
+/dist
+/tmp
+/out-tsc
+/bazel-out
+/node_modules
+/npm-debug.log
+/yarn-error.log
+/.angular/cache
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+
+# Visual Studio Code (עורך קוד)
+/.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# IDEs and editors (כללי)
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.history/*
+
+# מערכת ההפעלה - קבצים מערכתיים
+.DS_Store
+Thumbs.db
+
+# ===== C# / ASP.NET Core =====
+
+# Build output
+/bin/
+#/obj/ (אם אתם רוצים להחריג את התיקיה הזו)
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Auto generated files
+Generated\
+
+# IIS
+_IISExpress/
+
+# Logs
+*.log
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Rider IDE
+.idea/
+
+# Visual Studio cache files
+.vs/

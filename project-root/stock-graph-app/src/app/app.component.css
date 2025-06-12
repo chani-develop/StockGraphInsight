@@ -1,0 +1,38 @@
+/* מבנה עבור container עם Grid */
+.container {
+    display: grid;
+    grid-template-rows: 25% 500px auto; /* הגדרה של גובה כל קומפוננטה */
+    grid-template-columns: 100%; /* רק עמודה אחת */
+    height: 100vh; /* גובה של המסך */
+    width: 100%;
+    position: relative;
+  }
+  
+  /* קומפוננטת החברה */
+  .company {
+    grid-row: 1; /* ממוקמת בשורה הראשונה */
+    width: 100%;
+    background-color: #f4f4f4; /* רקע לדוגמה */
+  }
+  
+  /* קומפוננטת תאריך - ממוקמת בשורה השנייה */
+  .date {
+    grid-row: 2; /* ממוקמת בשורה השנייה */
+    width: 70%;
+    max-width: 500px;
+    background-color: #e0e0e0; /* רקע לדוגמה */
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 12px;
+  }
+  
+  /* קומפוננטת גרף - ממוקמת בשורה השלישית */
+  .graph {
+    grid-row: 3; /* ממוקמת בשורה השלישית */
+    width: 100%;
+    height: 500px;
+    position: relative;
+    background-color: #c0c0c0; /* רקע לדוגמה */
+    z-index: 10;
+  }
+  

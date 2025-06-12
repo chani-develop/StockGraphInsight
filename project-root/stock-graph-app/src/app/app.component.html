@@ -1,0 +1,11 @@
+
+
+<div class="container">
+    <app-company (companySelected)="onCompanyChange($event)" class="company"></app-company>
+    <app-date (rangeSelected)="onRangeChange($event)" class="date"></app-date>
+    <app-graph 
+    [stockData]="stockData"
+    [symbol]="selectedSymbol"
+    [range]="selectedRange" 
+    class="graph"  ></app-graph>
+  </div>

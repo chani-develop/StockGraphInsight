@@ -1,0 +1,22 @@
+
+
+   <div class="date-container">
+    <div class="title-box">
+    </div>
+  
+    <div class="select-wrapper">
+      
+      <button class="dropdown-button" (click)="isDropdownOpen = !isDropdownOpen" >
+        לבחירת טווח זמן⬇️
+      </button>
+  
+      <div class="dropdown-options" *ngIf="isDropdownOpen">
+        <button (click)="selectRange('today'); isDropdownOpen = false">📅 היום</button>
+        <button (click)="selectRange('lastweek'); isDropdownOpen = false">📊 שבוע</button>
+        <button (click)="selectRange('last30days'); isDropdownOpen = false">🗓️ 30 ימים</button>
+        <button (click)="selectRange('last6months'); isDropdownOpen = false">📈 חצי שנה</button>
+      </div>
+    </div>
+  </div>
+ 
+  

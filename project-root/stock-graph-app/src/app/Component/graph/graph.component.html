@@ -1,0 +1,51 @@
+<div class="graph-header">
+  <h2>גרף שינוי מחיר מניית</h2>
+  <h2>נתוני מניה עבור {{ getSymbol(symbol) }} בטווח {{ getRangeInHebrew(range)}}</h2>
+
+</div>
+<!-- ספינר-->
+<div *ngIf="loading" class="spinner-container">
+  <div class="gold-spinner"></div>
+</div>
+
+<!-- הודעה כאשר אין נתונים -->
+
+<div *ngIf="noData && !loading" class="no-data-message">
+  <p>🔍 אין נתונים להצגה עבור הבחירה הנוכחית.</p>
+</div>
+
+<!-- חלונית שמיצגת את הגרף -->
+
+<div *ngIf="!loading && !noData" class="graph-container" id="graph">
+<!-- מקרא גרף-->
+  <div class="legend">
+    <strong></strong>
+    <ul>
+      <li><span class="legend-box up"></span>מגמת עלייה</li>
+      <li><span class="legend-box down"></span>מגמת ירידה</li>
+      <li><span class="legend-dot default"></span>מחיר בכל תאריך</li>
+      <li><span class="legend-dot last"></span>נקודה אחרונה (מחיר נוכחי)</li>
+      <li><span class="legend-box area"></span>שטח מתחת לקו</li>
+    </ul>
+  </div>
+
+<!--גרף-->
+  <svg #svg width="1000" height="600"> </svg>
+
+</div>
+
+<!--  שליחה למייל והורדה -->
+<div class="email-form-wrapper">
+  <div class="animated-graph-background"></div>
+  <div class="email-form-content">
+    <h2>🚀 שלח את הגרף למייל</h2>
+
+    <label for="email">:כתובת מייל</label>
+    <input type="email" id="email" [(ngModel)]="emailToSend" placeholder="example@gmail.com" />
+
+    <div class="buttons">
+      <button (click)="sendEmailWithChart()">📬 שליחה</button>
+      <button (click)="downloadChartAsImage()">📥 הורדה</button>
+    </div>
+  </div>
+</div>

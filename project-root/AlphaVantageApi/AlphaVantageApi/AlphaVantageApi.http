@@ -1,0 +1,6 @@
+@AlphaVantageApi_HostAddress = http://localhost:5231
+
+GET {{AlphaVantageApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\\u05DC\u05D4\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8 \u05D0\u05EA \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project-root\\AlphaVantageApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD6165D-CB87-48E1-A430-3F2B26128A3D}|AlphaVantageApi\\AlphaVantageApi.csproj|c:\\users\\lenovo\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\\u05DC\u05D4\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8 \u05D0\u05EA \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project-root\\alphavantageapi\\alphavantageapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBD6165D-CB87-48E1-A430-3F2B26128A3D}|AlphaVantageApi\\AlphaVantageApi.csproj|solutionrelative:alphavantageapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD6165D-CB87-48E1-A430-3F2B26128A3D}|AlphaVantageApi\\AlphaVantageApi.csproj|c:\\users\\lenovo\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\\u05DC\u05D4\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8 \u05D0\u05EA \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project-root\\alphavantageapi\\alphavantageapi\\services\\alphavantageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD6165D-CB87-48E1-A430-3F2B26128A3D}|AlphaVantageApi\\AlphaVantageApi.csproj|solutionrelative:alphavantageapi\\services\\alphavantageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD6165D-CB87-48E1-A430-3F2B26128A3D}|AlphaVantageApi\\AlphaVantageApi.csproj|c:\\users\\lenovo\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\\u05DC\u05D4\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8 \u05D0\u05EA \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project-root\\alphavantageapi\\alphavantageapi\\alphavantageapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BBD6165D-CB87-48E1-A430-3F2B26128A3D}|AlphaVantageApi\\AlphaVantageApi.csproj|solutionrelative:alphavantageapi\\alphavantageapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD6165D-CB87-48E1-A430-3F2B26128A3D}|AlphaVantageApi\\AlphaVantageApi.csproj|c:\\users\\lenovo\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\\u05DC\u05D4\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8 \u05D0\u05EA \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project-root\\alphavantageapi\\alphavantageapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBD6165D-CB87-48E1-A430-3F2B26128A3D}|AlphaVantageApi\\AlphaVantageApi.csproj|solutionrelative:alphavantageapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD6165D-CB87-48E1-A430-3F2B26128A3D}|AlphaVantageApi\\AlphaVantageApi.csproj|c:\\users\\lenovo\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\\u05DC\u05D4\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8 \u05D0\u05EA \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project-root\\alphavantageapi\\alphavantageapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD6165D-CB87-48E1-A430-3F2B26128A3D}|AlphaVantageApi\\AlphaVantageApi.csproj|solutionrelative:alphavantageapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\\u05DC\u05D4\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8 \u05D0\u05EA \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project-root\\AlphaVantageApi\\AlphaVantageApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AlphaVantageApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\\u05DC\u05D4\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8 \u05D0\u05EA \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project-root\\AlphaVantageApi\\AlphaVantageApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AlphaVantageApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T21:58:59.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlphaVantageService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\\u05DC\u05D4\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8 \u05D0\u05EA \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project-root\\AlphaVantageApi\\AlphaVantageApi\\Services\\AlphaVantageService.cs",
+              "RelativeDocumentMoniker": "AlphaVantageApi\\Services\\AlphaVantageService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\\u05DC\u05D4\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8 \u05D0\u05EA \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project-root\\AlphaVantageApi\\AlphaVantageApi\\Services\\AlphaVantageService.cs",
+              "RelativeToolTip": "AlphaVantageApi\\Services\\AlphaVantageService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T21:58:48.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlphaVantageApi.http",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\\u05DC\u05D4\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8 \u05D0\u05EA \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project-root\\AlphaVantageApi\\AlphaVantageApi\\AlphaVantageApi.http",
+              "RelativeDocumentMoniker": "AlphaVantageApi\\AlphaVantageApi.http",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\\u05DC\u05D4\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8 \u05D0\u05EA \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project-root\\AlphaVantageApi\\AlphaVantageApi\\AlphaVantageApi.http",
+              "RelativeToolTip": "AlphaVantageApi\\AlphaVantageApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-12T21:58:39.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\\u05DC\u05D4\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8 \u05D0\u05EA \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project-root\\AlphaVantageApi\\AlphaVantageApi\\appsettings.json",
+              "RelativeDocumentMoniker": "AlphaVantageApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\\u05DC\u05D4\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8 \u05D0\u05EA \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project-root\\AlphaVantageApi\\AlphaVantageApi\\appsettings.json",
+              "RelativeToolTip": "AlphaVantageApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T21:58:32.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\\u05DC\u05D4\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8 \u05D0\u05EA \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project-root\\AlphaVantageApi\\AlphaVantageApi\\Program.cs",
+              "RelativeDocumentMoniker": "AlphaVantageApi\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD \u05E9\u05DC\u05D9\\\u05DC\u05D4\u05E2\u05DC\u05D5\u05EA \u05DC\u05D2\u05D9\u05D8 \u05D0\u05EA \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project-root\\AlphaVantageApi\\AlphaVantageApi\\Program.cs",
+              "RelativeToolTip": "AlphaVantageApi\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T21:58:26.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

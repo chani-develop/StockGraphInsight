@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CQYgWizxHXW3gIoikO88isxlpmTpizCd2HdzE6s330s=",
+  "Source": "AlphaVantageApi",
+  "BasePath": "_content/AlphaVantageApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
